@@ -1,0 +1,99 @@
+💸 SPECIFICA DEI REQUISITI – MoneyMind 
+
+ 
+
+🧠 Requisiti Funzionali 
+
+L’utente può registrarsi o accedere tramite email, Google o Apple. 
+
+L’utente può creare una carta virtuale personale al primo accesso. 
+
+L’utente può visualizzare le proprie carte con nome, ultime cifre e saldo. 
+
+L’utente può scorrere tra le varie carte tramite un effetto a scorrimento orizzontale. 
+
+L’utente può visualizzare i propri risparmi totali e gli obiettivi raggiunti nella sezione “Total Savings”. 
+
+L’utente può effettuare pagamenti contactless simulati scegliendo la carta e l’importo. 
+
+L’utente può pagare tramite la funzione “Pay by QR Code” scannerizzando un codice. 
+
+L’utente può effettuare donazioni rapide tramite la funzione “Donate Now”. 
+
+L’utente può bloccare temporaneamente una carta, simulando il blocco in caso di smarrimento. 
+
+L’app mostra una barra di navigazione con 5 tasti principali che permettono di spostarsi tra le varie sezioni (Carte, Pagamenti, Home, Investimenti e Menu). 
+
+ 
+
+⚙️ Requisiti Non Funzionali 
+
+L’app deve essere semplice da usare e permettere di capire le funzioni principali in poco tempo. 
+
+Tutte le schermate devono avere la stessa palette di colori, font e stile. 
+
+I testi devono essere leggibili e avere un buon contrasto con lo sfondo. 
+
+I collegamenti tra le schermate devono essere chiari e facili da seguire. 
+
+Il design deve adattarsi bene a schermi di varie dimensioni, come smartphone o tablet. 
+
+Le icone devono essere comprensibili e coerenti con la funzione che rappresentano. 
+
+L’interfaccia deve essere ordinata, moderna e senza elementi inutili. 
+
+Le schermate devono caricarsi velocemente in modalità presentazione su Figma. 
+
+Il linguaggio utilizzato nei testi deve essere semplice e coerente in tutte le pagine. 
+
+Ogni percorso (come Home → Impostazioni) deve essere intuitivo e logico. 
+
+ 
+
+🧱 Requisiti di Vincolo 
+
+Il progetto deve essere realizzato su Figma, utilizzando frame, componenti interattivi e collegamenti funzionanti. 
+
+Tutti i testi e le scritte presenti nelle schermate devono essere in lingua inglese, per rendere l’app più internazionale. 
+
+Il design deve rispettare la palette di colori principale scelta dal gruppo (toni di blu e verde). 
+
+Devono essere utilizzati font coerenti in tutte le schermate, mantenendo uno stile moderno e leggibile. 
+
+Tutte le schermate devono rispettare le dimensioni standard di un dispositivo mobile, in particolare smartphone con formato 9:16. 
+
+Tutti i pulsanti e le icone devono essere funzionanti in modalità “Presentazione” di Figma. 
+
+Le sezioni principali (Home, Carte, Pagamenti, Menu, ecc.) devono avere una struttura coerente e facilmente raggiungibile tramite la barra di navigazione. 
+
+Tutte le animazioni o transizioni devono essere fluide e rispettare i tempi di visualizzazione definiti nel mock-up. 
+
+Le immagini e le icone utilizzate devono essere libere da copyright o provenire da librerie grafiche autorizzate. 
+
+Il file Figma deve essere organizzato in pagine e livelli ordinati, con nomi chiari per ogni componente o schermata, così da garantire la leggibilità del progetto. 
+
+ 
+
+🌐 Requisiti di Dominio 
+
+Ogni carta deve mostrare nome, intestatario, ultime cifre e saldo. 
+
+Gli obiettivi di risparmio devono essere rappresentati graficamente con barre di avanzamento. 
+
+La sezione “Spending Resume” deve mostrare un grafico delle spese mensili. 
+
+La sezione “Investimenti” deve mostrare l’andamento di titoli o azioni in modo simulato. 
+
+L’app deve includere una schermata dedicata al cashback con offerte o sconti. 
+
+Deve esserci una schermata “ATM” con una mappa che mostra i bancomat affiliati. 
+
+La sezione “Contacts” deve mostrare una lista di contatti per inviare denaro velocemente. 
+
+La schermata “Authorization” deve simulare le autorizzazioni come notifiche, contatti, fingerprint e NFC. 
+
+La sezione “Help” deve simulare una chat con un bot o con il servizio clienti. 
+
+Deve essere possibile uscire dall’app e tornare alla schermata di login o registrazione. 
+
+ 
