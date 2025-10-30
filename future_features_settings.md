@@ -10,7 +10,7 @@ Questo documento descrive una serie di **funzionalità** e **impostazioni** che 
    Possibilità di creare conti specifici come "Conto Risparmi", "Conto Aziendale" o "Conto Investimenti".
 
 2. **Gestione Investimenti**  
-   Sezione dedicata alla simulazione di investimenti in azioni, obbligazioni o criptovalute, con andamento grafico.
+   Sezione dedicata alla simulazione di investimenti in azioni, obbligazioni o criptovalute, con andamento grafico, già presente ma con un possibile aggiunta di una funzionalità che permetta di fare nuovi investimenti
 
 3. **Sistema di statistiche avanzate**  
    Grafici dinamici e personalizzabili per analizzare entrate, spese e andamento dei conti nel tempo.
