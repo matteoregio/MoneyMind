@@ -1,0 +1,43 @@
+Analisi della concorrenza 
+
+Funzionionalità di altre applicazioni di gestione delle proprie finanze implementabili 
+
+Registrazione di Transazioni: L'utente inserisce ogni movimento di denaro, classificandolo come un'entrata (deposito) o un'uscita (prelievo o spesa). 
+
+Categorie e Beneficiari: Le transazioni vengono assegnate a categorie (es. cibo, trasporti) e associate a "beneficiari" (le persone o aziende a cui si dà o si riceve denaro). 
+
+Gestione di Conti e Wallet: L'app permette di registrare e gestire diversi "conti", che possono essere conti bancari, carte di credito o wallet fisici (portafogli). 
+
+Monitoraggio e Analisi: Il software aggrega i dati per mostrare all'utente dove vanno i suoi soldi, permettendo di analizzare le spese e capire le proprie abitudini finanziarie. 
+
+Budgeting e obiettivi: Imposta dei budget di spesa per le diverse categorie e crea obiettivi finanziari per monitorare i tuoi progressi e gestire i debiti. 
+
+Grafici e report: Visualizza grafici e report sulle tue abitudini di spesa per avere una chiara visione dell'andamento delle tue finanze. 
+
+Accesso e Autenticazione: Per accedere, si usano le proprie credenziali (username e password). Le app bancarie utilizzano l'autenticazione forte del cliente (SCA) per proteggere le operazioni, che può includere:  
+
+ PIN personalizzato: Un codice numerico segreto.  
+
+Biometria: Riconoscimento delle impronte digitali o del volto.  
+
+Codici OTP: Codici di accesso una tantum generati dall'app o inviati via SMS. 
+
+ Puoi scambiare denaro con i tuoi contatti, pagare in negozi e supermercati con il QR Code 
+
+Con la funzione "Personalizza login” puoi cambiare lo sfondo della schermata di benvenuto e impostare le azioni veloci 
+
+Tracciamento entrate e uscite: Tieni sotto controllo le tue finanze categorizzando le transazioni.  
+
+Budgeting: Crea budget personalizzati e ricevi notifiche quando li raggiungi.  
+
+Gestione risparmi: Imposta e monitora i tuoi obiettivi di risparmio.  
+
+Sincronizzazione: Sincronizza i dati su più dispositivi per un accesso pratico. 
+
+ 
+
+ 
+
+ 
+
+ 
