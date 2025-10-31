@@ -65,3 +65,7 @@ Questo documento descrive una serie di **funzionalità** e **impostazioni** che 
 
 📌 *Tutte le funzioni e impostazioni elencate sono pensate per migliorare l’esperienza utente e rendere MoneyMind un’app sempre più completa, intuitiva e personalizzabile.*
 
+📁 *File curato da:* **Team MoneyMind**  
+👤 *Project Manager:* *Frank Egeonu*  
+📅 *Ultimo aggiornamento:* ottobre 2025
+
