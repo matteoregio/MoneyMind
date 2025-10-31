@@ -116,7 +116,7 @@ Il progetto **MoneyMind** è stato realizzato da un team composto da **quattro s
 - Coordinamento generale del progetto  
 - Gestione delle attività e scadenze tramite Planner  
 - Realizzazione del **wireframe** e del **mock-up grafico** in **Figma**  
-- Creazione e gestione della **repository GitHub** insieme al compagno 1  
+- Creazione e gestione della **repository GitHub** insieme a Regio Matteo
 - Contributo alla definizione dei requisiti e alla revisione del design finale  
 
 ---
