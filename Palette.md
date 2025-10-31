@@ -49,5 +49,5 @@ Questo permette di implementare facilmente un **tema dinamico** che l’utente p
 ---
 
 📁 *File curato da:* **Team MoneyMind**  
-👤 *Project Manager:* *Regio Matteo*  
+👤 *Web Designer:* *Regio Matteo*  
 📅 *Ultimo aggiornamento:* ottobre 2025
