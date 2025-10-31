@@ -4,13 +4,9 @@
 
 🧠 Requisiti Funzionali 
 
-L’utente può registrarsi o accedere tramite email, Google o Apple. 
-
 L’utente può creare una carta virtuale personale al primo accesso. 
 
 L’utente può visualizzare le proprie carte con nome, ultime cifre e saldo. 
-
-L’utente può scorrere tra le varie carte tramite un effetto a scorrimento orizzontale. 
 
 L’utente può visualizzare i propri risparmi totali e gli obiettivi raggiunti nella sezione “Total Savings”. 
 
@@ -28,6 +24,8 @@ L’app mostra una barra di navigazione con 5 tasti principali che permettono di
 
 ⚙️ Requisiti Non Funzionali 
 
+L’utente può registrarsi o accedere tramite email, Google o Apple. 
+
 L’app deve essere semplice da usare e permettere di capire le funzioni principali in poco tempo. 
 
 Tutte le schermate devono avere la stessa palette di colori, font e stile. 
@@ -35,8 +33,6 @@ Tutte le schermate devono avere la stessa palette di colori, font e stile.
 I testi devono essere leggibili e avere un buon contrasto con lo sfondo. 
 
 I collegamenti tra le schermate devono essere chiari e facili da seguire. 
-
-Il design deve adattarsi bene a schermi di varie dimensioni, come smartphone o tablet. 
 
 Le icone devono essere comprensibili e coerenti con la funzione che rappresentano. 
 
