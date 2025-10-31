@@ -164,4 +164,8 @@ Ha permesso di mettere in pratica competenze di:
 
 ### 🚀 _“MoneyMind – perché gestire le tue finanze non deve essere complicato.”_ 💼
 
+📁 *File curato da:* **Team MoneyMind**  
+👤 *Project Manager:* *Frank Egeonu*  
+📅 *Ultimo aggiornamento:* ottobre 2025
+
 </div>
