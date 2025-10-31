@@ -43,31 +43,22 @@ Questo documento descrive una serie di **funzionalità** e **impostazioni** che 
 1. **Tema grafico (chiaro/scuro)**  
    Scelta tra modalità chiara, scura o automatica in base alle impostazioni del dispositivo.
 
-2. **Lingua dell’app**  
-   Impostazione per modificare la lingua dell’interfaccia (es. Italiano, Inglese, Spagnolo).
-
-3. **Valuta predefinita**  
+2. **Valuta predefinita**  
    Possibilità di scegliere la valuta principale con conversione automatica per le transazioni in valute estere.
 
-4. **Blocco con PIN o impronta digitale**  
+3. **Blocco con PIN o impronta digitale**  
    Aggiunta di un sistema di sicurezza per proteggere l’accesso all’app.
 
-5. **Gestione notifiche**  
+4. **Gestione notifiche**  
    L’utente può scegliere quali notifiche ricevere (budget, transazioni, obiettivi, aggiornamenti).
 
-6. **Backup e salvataggio dati**  
-   Possibilità di eseguire il backup dei dati su cloud o esportarli in un file locale (CSV o PDF).
-
-7. **Impostazione limiti di spesa globali**  
+5. **Impostazione limiti di spesa globali**  
    Funzione che consente di impostare un tetto massimo mensile di spesa per tutte le categorie.
 
-8. **Personalizzazione della dashboard iniziale**  
+6. **Personalizzazione della dashboard iniziale**  
    L’utente può scegliere quali sezioni mostrare nella schermata principale (grafici, conti, risparmi, ecc.).
 
-9. **Intervallo temporale dei grafici**  
-   Possibilità di selezionare l’unità di tempo per l’analisi dei dati: giornaliera, settimanale, mensile o annuale.
-
-10. **Gestione privacy e permessi**  
+7. **Gestione privacy e permessi**  
     Impostazioni per decidere quali dati salvare localmente, condividere o cancellare definitivamente.
 
 ---
