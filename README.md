@@ -111,7 +111,7 @@ Il design dell’app è stato sviluppato su **Figma**, seguendo linee guida prec
 ## 👥 **Team di sviluppo**
 Il progetto **MoneyMind** è stato realizzato da un team composto da **quattro studenti**, che hanno collaborato attraverso **Microsoft Planner** per organizzare i compiti e rispettare le scadenze.
 
-### 👨‍💼 **Project Manager e Web Developer**
+### 👨‍💼 **Project Manager e Web Designer**
 **Frank Egonu (Project Manager)**  
 - Coordinamento generale del progetto  
 - Gestione delle attività e scadenze tramite Planner  
@@ -121,7 +121,7 @@ Il progetto **MoneyMind** è stato realizzato da un team composto da **quattro s
 
 ---
 
-### 🎨 **Regio Matteo – Web Designer / Web Developer**
+### 🎨 **Regio Matteo – Web Designer principale**
 - Collaborazione alla creazione del **wireframe** e del **mock-up grafico**  
 - Gestione dell’organizzazione della **repository GitHub**  
 - Supporto tecnico durante la progettazione visiva  
